@@ -1,0 +1,27 @@
+{
+  "name": "jsp-server",
+  "description": "node-jsp-server",
+  "version": "0.1.0",
+  "author": {
+    "name": "tangjinzhou",
+    "email": "415800467@qq.com"
+  },
+  "homepage": "https://github.com/tangjinzhou/jsp",
+  "keywords": [
+    "jsp"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangjinzhou/jsp.git"
+  },
+  "dependencies": {
+    "commander": "1.3.2"
+  },
+  "_id": "jsp@0.1.0",
+  "_npmVersion": "2.1.11",
+  "_nodeVersion": "0.10.33"
+}
